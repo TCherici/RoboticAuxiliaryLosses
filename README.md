@@ -1,4 +1,4 @@
-# RoboticAuxiliaryLosses
+# Robotic Auxiliary Losses
 This is a baselines DDPG implementation with added Robotic Auxiliary Losses
 
 To install, first set up the baselines repository on your workstation (https://github.com/openai/baselines/)
